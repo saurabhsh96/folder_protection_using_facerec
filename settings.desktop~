@@ -1,0 +1,12 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Version=1.0
+Type=Application
+Encoding=UTF-8
+Name=mounter
+Exec=/home/saurabh/DIP/mount.sh
+Terminal=true
+Type=Application
+StartupNotify=true
+NoDisplay=true
